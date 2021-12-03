@@ -1,0 +1,58 @@
+body {
+    background-color: aquamarine;
+}
+header {
+    border: 10px yellow solid;
+    background-color:blueviolet;
+    width: 1000px;
+    height: 160px;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 10px;
+}
+div.logo {
+    border: 10px black solid;
+    background-color:blue;
+    height: 130px;
+    width: 130px;
+    float: left;
+
+}
+div.information {
+    border: 10px black solid;
+    background-color:skyblue;
+    height: 130px;
+    width: 780px;
+    margin-left: 200px;
+    font-size: 24pt;
+    font-family: 'Gill Sans';
+}
+div.main {
+    width: 1040px;
+    height: 1000px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: -20px;
+}
+main {
+    border: 10px yellow solid;
+    background-color:rgb(255, 5, 192);
+    width: 760px;
+    height: 880px;
+    margin-top: -20px;
+    margin-right: 20px;
+    font-family: 'Gill Sans';
+}
+aside {
+    border: 10px yellow solid;
+    background-color:greenyellow;
+    width: 260px;
+    height: 880px;
+    float: right;
+    margin-left: 20px;
+    font-family: 'Gill Sans';
+}
+iframe {
+    margin-left: 25px;
+    margin-top: 25px;
+}
